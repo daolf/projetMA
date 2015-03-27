@@ -28,9 +28,11 @@ forme de parcours touristique.
 * Temps imparti
 
 ### Team Building:
+* Coach agile et Stake holder: Franck Silvestre
 * Product Owner: Wladimir Du Manoir
 * Scrum Master: Anna Melnychuk
 * DevTeam : Pierre De Wulf & Jules Libert
+
 
 ### Solution technique:
 L'application web sera écrite en HTML5. Elle sera responsive (disponible sur
