@@ -38,3 +38,7 @@ forme de parcours touristique.
 L'application web sera écrite en HTML5. Elle sera responsive (disponible sur
 smartphone et tablettes) et sera codée sur brackets.io par l'équipe de
 développement.
+Pour l'organisation, la web-application Trello est disponible. Le tableau de bord
+est disponible ici : https://trello.com/b/vtp8dC7H/guide-touristique-td-ma
+
+# Sprint 1
