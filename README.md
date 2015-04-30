@@ -33,6 +33,8 @@ forme de parcours touristique.
 * Scrum Master: Anna Melnychuk
 * DevTeam : Pierre De Wulf & Jules Libert
 
+Ces rôles ne valent que pour les sprint 0, pour les autres nous avont proceder par rotation afin que chacun puisse expérimenter chaques rôles.
+
 
 ### Solution technique:
 L'application web sera écrite en HTML5. Elle sera responsive (disponible sur
