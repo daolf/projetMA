@@ -43,4 +43,3 @@ développement.
 Pour l'organisation, la web-application Trello est disponible. Le tableau de bord
 est disponible ici : https://trello.com/b/vtp8dC7H/guide-touristique-td-ma
 
-# Sprint 1
